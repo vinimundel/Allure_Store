@@ -1,4 +1,4 @@
-# README Detalhado
+# README
 
 ## Objetivo do Projeto:
 
